@@ -1,2 +1,1 @@
-# CS50_Web_Programming
-CS50’s Web Programming with Python and JavaScript
+Full_Stack_Web_Developer
