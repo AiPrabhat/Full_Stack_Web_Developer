@@ -17,6 +17,17 @@ p {
     padding: 7% 15% ;
 }
 
+/* Sections */
+.colored-section {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.white-section {
+    background-color: #fff;
+    color: #000;
+}
+
 /* Heaings */
 .big-heading {
     font-size: 3.5rem;
@@ -48,14 +59,9 @@ p {
 }
 
 /* Title Section */
-#title {
-    background-color: #ff4c68;
-    color: #fff;
-    text-align: left;
-}
-
 #title .container-fluid {
     padding: 3% 15% 7%;
+    text-align: left;
 }
 
 /* Download Buttons */
@@ -73,7 +79,6 @@ p {
 
 /* Features Section */
 #features {
-    background-color: #fff;
     position: relative;
 }
 
@@ -97,7 +102,6 @@ p {
 /* Testimonial Section */
 #testimonials {
     background-color: #ef8172;
-    color: #fff;
 }
 
 .testimonial-image {
@@ -127,12 +131,6 @@ p {
 
 .price-text {
     font-size: 3rem;
-}
-
-/* CTA Section */
-#cta {
-    background-color: #ff4c68;
-    color: #fff;
 }
 
 /* Footer Section */
